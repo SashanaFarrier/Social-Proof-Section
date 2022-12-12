@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub](https://your-solution-url.com)
-- Live Site URL: [Netlify](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/SashanaFarrier/Social-Proof-Section)
+- Live Site URL: [Netlify](https://sashanafarrier-social-proof-section.netlify.app/)
 
 ## My process
 
